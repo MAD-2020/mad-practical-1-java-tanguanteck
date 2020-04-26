@@ -11,6 +11,7 @@ public class Question3
      */
      
     Scanner in = new Scanner(System.in);
-    
+    int input = in.nextInt();
+    int result = input*input;
   }
 }
